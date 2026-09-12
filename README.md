@@ -1,4 +1,6 @@
-## Hi there 👋
+<img width="1400" height="350" alt="solo-in-code-banner" src="https://github.com/user-attachments/assets/7219be6b-d9ac-4ab9-9668-24f3891888ab" />
+
+![Solo-in-Code](solo-in-code-banner.png) 
 
 <!--
 **Solo-in-Code/Solo-in-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
