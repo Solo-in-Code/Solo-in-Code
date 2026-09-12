@@ -1,4 +1,5 @@
-<img width="1400" height="350" alt="solo-in-code-banner" src="https://github.com/user-attachments/assets/1860272b-5fb5-4f92-9b86-0d4385b7d92f" />
+<img width="1400" height="350" alt="solo-in-code-banner" src="https://github.com/user-attachments/assets/cd40b060-f547-4fbb-94b2-f39859f38fa6" />
+
 
 
 <!--
